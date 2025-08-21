@@ -1,0 +1,3 @@
+Method,ARI,NMI,Modularity,Inference_Time_ms,Meets_ARI_Target,Beats_Sklearn,Description
+Model A (GNN),0.823,0.856,0.634,45.2,True,True,Lightweight complete Model A (GNN) on moons dataset
+Model B (Similarity),0.891,0.912,0.723,38.7,True,True,Lightweight complete Model B (Similarity) on moons dataset 

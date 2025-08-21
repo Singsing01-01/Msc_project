@@ -1,0 +1,11 @@
+{
+  "train_size": 100,
+  "test_size": 50,
+  "img_size": 64,
+  "point_range": [
+    250,
+    349
+  ],
+  "compressed": true,
+  "generation_time": "2025-07-27 08:04:31"
+}

@@ -1,0 +1,4 @@
+﻿Method,ARI,NMI,Modularity,Inference_Time_ms,Meets_ARI_Target,Beats_Sklearn,Description
+sklearn_baseline,2.7211150911954514e-05,0.0014816686192009284,0.0,339.1421635945638,False,False,sklearn img_to_graph + spectral clustering
+ModelA_GNN,6.802787727988629e-05,0.003407837824162135,0.0,23.0,False,True,GNN-based end-to-end architecture (estimated)
+ModelB_Similarity,6.530676218869082e-05,0.0032596709622420427,0.0,6.0,False,True,Similarity-based lightweight architecture (estimated)
